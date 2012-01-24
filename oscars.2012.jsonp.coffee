@@ -1,4 +1,4 @@
-window.callback """
+window.oscarsCallback """
   {
     "Best Picture": [
         "The Artist"
